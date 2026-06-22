@@ -3,3 +3,10 @@
     text-align: center;
     color: aliceblue;
 }
+
+.para{
+    background-color: brown;
+    text-align: left;
+    padding: 28px;
+
+}
